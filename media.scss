@@ -17,11 +17,32 @@
   .hero--btn{
     margin:10px 10px ;
   }
+  .header--block__two input {
+    width: 390px;
+    height: 30px;
+    background: #F3F2F2;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    color: #908;
+    /* padding-left: 40px; */
+  }
+
 }
 
 @media (max-width: 992px) {
   .hero--btn{
     margin:10px 10px ;
+  }
+  .header--block__two input {
+    width: 390px;
+    height: 30px;
+    background: #F3F2F2;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    color: #908;
+    /* padding-left: 40px; */
   }
 
   .menu{
@@ -65,7 +86,7 @@
 
 @media (max-width: 576px) {
   .header--block__two input {
-    width: 380px;
+    width: 240px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
@@ -120,7 +141,7 @@
 
 @media (max-width: 414px) {
   .header--block__two input {
-    width: 200px;
+    width: 180px;
     height: 30px;
   }
   .hero--btn{
@@ -132,6 +153,14 @@
   .menu--block {
     width: 224px;
     height: 315px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 15px 10px;
+    margin-left: -10px;
+  }
+  .tea--block {
+    width: 224px;
+    height: 325px;
     background: #FFFFFF;
     border-radius: 10px;
     margin: 15px 10px;
@@ -158,11 +187,18 @@
     border-radius: 10px;
     margin: 15px 10px;
   }
+  .tea--block {
+    width: 224px;
+    height: 325px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 15px 10px;
+  }
 }
 
 @media (max-width: 375px) {
   .header--block__two input {
-    width: 150px;
+    width: 130px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
@@ -176,6 +212,13 @@
   .menu--block {
     width: 224px;
     height: 315px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 15px 10px;
+  }
+  .tea--block {
+    width: 224px;
+    height: 325px;
     background: #FFFFFF;
     border-radius: 10px;
     margin: 15px 10px;
@@ -203,5 +246,11 @@
   .hero--btn{
     margin:10px 10px ;
   }
-
+  .tea--block {
+    width: 224px;
+    height: 325px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 15px 10px;
+  }
 }
