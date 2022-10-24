@@ -55,7 +55,7 @@
 
 @media (max-width: 768px) {
   .header--block__two input {
-    width: 390px;
+    width: 300px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
@@ -85,7 +85,7 @@
 
 @media (max-width: 576px) {
   .header--block__two input {
-    width: 240px;
+    width: 200px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
@@ -117,6 +117,14 @@
     border-radius: 10px;
     margin: 15px 10px;
   }
+
+  .tea--block {
+    width: 224px;
+    height: 325px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 15px 15px;
+  }
 }
 
 @media (max-width: 451px) {
@@ -134,7 +142,13 @@
     background: #FFFFFF;
     border-radius: 10px;
     margin: 15px 10px;
-    margin-left: 100px;
+  }
+  .tea--block {
+    width: 224px;
+    height: 325px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 15px 15px;
   }
 }
 
@@ -155,14 +169,14 @@
     background: #FFFFFF;
     border-radius: 10px;
     margin: 15px 10px;
-    margin-left: -10px;
+
   }
   .tea--block {
     width: 224px;
     height: 325px;
     background: #FFFFFF;
     border-radius: 10px;
-    margin: 15px 10px;
+    margin: 15px 15px;
   }
 }
 
@@ -191,7 +205,7 @@
     height: 325px;
     background: #FFFFFF;
     border-radius: 10px;
-    margin: 15px 10px;
+    margin: 15px 15px;
   }
 }
 
@@ -220,7 +234,7 @@
     height: 325px;
     background: #FFFFFF;
     border-radius: 10px;
-    margin: 15px 10px;
+    margin: 15px 15px;
   }
 }
 
@@ -250,6 +264,6 @@
     height: 325px;
     background: #FFFFFF;
     border-radius: 10px;
-    margin: 15px 10px;
+    margin: 15px 15px;
   }
 }
