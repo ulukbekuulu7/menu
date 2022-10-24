@@ -1,7 +1,6 @@
 @import "scss/global";
 
 
-
 @media (max-width: 1440px) {
 
   .container {
@@ -46,11 +45,11 @@
   }
 
   .menu{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
 
 }
 
@@ -65,13 +64,13 @@
     color: #908;
     /* padding-left: 40px; */
   }
-.tea{
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  padding: 20px 0;
-}
+  .tea{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px 0;
+  }
   .hero--btn{
     margin:10px 10px ;
   }
@@ -95,12 +94,12 @@
     color: #908;
     /* padding-left: 40px; */
   }
-.tea{
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  padding: 20px 0;
-}
+  .tea{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0;
+  }
   .menu--title {
     display: flex;
     align-items: center;
