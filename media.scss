@@ -34,14 +34,14 @@
     margin:10px 10px ;
   }
   .header--block__two input {
-    width: 390px;
+    width: 180px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
     outline: none;
     border: none;
     color: #908;
-    /* padding-left: 40px; */
+    padding-left: 20px;
   }
 
   .menu{
@@ -55,14 +55,14 @@
 
 @media (max-width: 768px) {
   .header--block__two input {
-    width: 260px;
+    width: 180px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
     outline: none;
     border: none;
     color: #908;
-    /* padding-left: 40px; */
+    padding-left: 20px;
   }
   .tea{
     display: flex;
@@ -85,7 +85,7 @@
 
 @media (max-width: 576px) {
   .header--block__two input {
-    width: 170px;
+    width: 150px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
@@ -129,7 +129,7 @@
 
 @media (max-width: 451px) {
   .header--block__two input {
-    width: 160px;
+    width: 140px;
     height: 30px;
   }
   .hero--btn{
@@ -154,7 +154,7 @@
 
 @media (max-width: 414px) {
   .header--block__two input {
-    width: 160px;
+    width: 130px;
     height: 30px;
   }
   .hero--btn{
@@ -182,7 +182,7 @@
 
 @media (max-width: 400px) {
   .header--block__two input {
-    width: 150px;
+    width: 130px;
     height: 30px;
     background: #F3F2F2;
     border-radius: 10px;
